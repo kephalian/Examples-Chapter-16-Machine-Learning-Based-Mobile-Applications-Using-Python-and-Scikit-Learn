@@ -16,7 +16,7 @@ or "import numpy as np" is Plegiarism?
 
 Such a code is likely to be found a million times on internet.
 
-These is our original programs we wrote for the book chapter,  but we deleted in final draft.
+These are our original Python programs we wrote for the book chapter,  but we deleted in final draft.
 
 
 
