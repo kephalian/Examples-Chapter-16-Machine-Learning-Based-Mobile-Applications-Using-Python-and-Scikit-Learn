@@ -7,8 +7,8 @@ Authors: Rajamani Santhosh Kumar and Radha Srinivasan Iyer
 Chief editor: Debabrata Samanta
 
 
-These Python codes did not make it in the final version of the book as 
-the Plegiarism software flagged all this code as ??? Plegiarism.
+These Python codes did not make it to the final version of the book as 
+their Plegiarism software flagged all this code as ??? Plegiarism.
 
 Tell me "import pandas as pd" is Plegiarism?
 
@@ -16,7 +16,9 @@ or "import numpy as np" is Plegiarism?
 
 Such a code is likely to be found a million times on internet.
 
-This is our original programs we wrote for the book but deleted in final draft.
+These is our original programs we wrote for the book chapter,  but we deleted in final draft.
+
+
 
 
 
