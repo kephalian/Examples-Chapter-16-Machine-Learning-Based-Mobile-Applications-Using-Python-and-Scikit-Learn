@@ -19,7 +19,7 @@ or "import numpy as np" is Plegiarism?
 
 Such a code is likely to be found a million times on internet.
 
-These are our original Python programs we wrote for the book chapter,  but we deleted in final draft.
+[These are our original Python programs we wrote for the book chapter](https://github.com/kephalian/Examples-Chapter-16-Machine-Learning-Based-Mobile-Applications-Using-Python-and-Scikit-Learn/blob/main/Machine-Learning-Based-Mobile-Applications-Using-Python-and-Scikit-Learn.pdf) but we deleted in final draft.
 
 
 
