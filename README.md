@@ -10,7 +10,8 @@ Chief editor: Debabrata Samanta
 
 
 
-These Python codes did not make it to the final version of the book as 
+These Python codes did not make it to the [final version](https://github.com/kephalian/Examples-Chapter-16-Machine-Learning-Based-Mobile-Applications-Using-Python-and-Scikit-Learn/blob/main/A-Scoping-Review-of-Current-Developments-in-the-Field-of-Machine-Learning-and-Artificial-Intelligence.pdf)
+of the book as 
 their Plegiarism software flagged all this code as ??? Plegiarism.
 
 Tell me "import pandas as pd" is Plegiarism?
