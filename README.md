@@ -6,6 +6,9 @@ The book can found [Here](https://services.igi-global.com/resolvedoi/resolve.asp
 Authors: Rajamani Santhosh Kumar and Radha Srinivasan Iyer
 Chief editor: Debabrata Samanta
 
+[Brochure of the book](https://github.com/kephalian/Examples-Chapter-16-Machine-Learning-Based-Mobile-Applications-Using-Python-and-Scikit-Learn/blob/main/Brochure.pdf)
+
+
 
 These Python codes did not make it to the final version of the book as 
 their Plegiarism software flagged all this code as ??? Plegiarism.
